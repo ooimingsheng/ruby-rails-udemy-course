@@ -1,0 +1,4 @@
+class AbootController < ApplicationController
+  
+  
+end
